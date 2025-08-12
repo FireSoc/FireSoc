@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savir Khanna</h1>
-<h3 align="center">Interested in the intersection between Data Science, Astronomy, Physics, and Environmental Science!</h3>
+<h3 align="center">Data Scientist interested in ML applications to Astronomy</h3>
 
 - 🔭 I’m currently working on **Northeastern University for a B.S. in Data Science + Physics, Minor in Mathematics**
 
@@ -11,15 +11,15 @@
 
 - 📫 How to reach me **hellosavir@gmail.com / khanna.sav@northeastern.edu**
 
-- ⚡ Fun fact **Eagle Scouts, wya?**
+- ⚡ Fun fact **I'm a Eagle Scout!**
 
 <h2 align="left"> Skills </h2>
 
 - Languages: Python, React JS
 
-- Frameworks: React, Node
+- Frameworks & Libraries: Pandas, vega-altair, scikit-learn, React, Node, Plotly, d3.js, Plot from Observablehq, matplotlib
   
-- Databases: Firebase
+- Tools: Firebase, Git, Docker
   
 - Operating Systems: MacOs
   
