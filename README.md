@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Eagle Scouts, wya?**
 
-<h2> Skills </h2>
+<h2 align="left"> Skills </h2>
 
 - Languages: Python, React JS
 
@@ -25,7 +25,7 @@
   
 - IDEs: VS Code, PyCharm, Jupyter Lab/Notebook, Anaconda Navigator
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me: </h2>
 <p align="left">
 <a href="https://linkedin.com/in/savir-khanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savir-khanna" height="30" width="40" /></a>
 </p>
