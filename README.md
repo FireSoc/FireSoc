@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Northeastern University for a B.S. in Data Science + Physics, Minor in Mathematics**
 
-- 🌱 I’m currently learning **Python Frameworks, Vega altair, ReactJS + Python Backend.**
+- 🌱 I’m currently learning **Python Frameworks, Vega altair, ReactJS + Python Backend, SQL.**
 
 - 👯 I’m looking to collaborate on **VALT Health, come join our team!**
 
@@ -15,11 +15,11 @@
 
 <h2 align="left"> Skills </h2>
 
-- Languages: Python, React JS
+- Languages: Python, React JS, Sql, Bash
 
-- Frameworks & Libraries: Pandas, vega-altair, scikit-learn, React, Node, Plotly, d3.js, Plot from Observablehq, matplotlib
+- Frameworks & Libraries: Pandas, Flask, vega-altair, scikit-learn, Plotly, d3.js, Plot from Observablehq, matplotlib, React, Node,
   
-- Tools: Firebase, Git, Docker
+- Tools: Firebase, Cloud Firestore, Git, Docker
   
 - Operating Systems: MacOs
   
