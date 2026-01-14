@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savir Khanna</h1>
 <h3 align="center">Data Scientist interested in ML applications to Astronomy</h3>
 
-- 🔭 I’m currently working on **Northeastern University for a B.S. in Data Science + Physics, Minor in Mathematics**
+- 🔭 I’m currently studying at **Northeastern University for a B.S. in Data Science + Physics, Minor in Mathematics**
 
-- 🌱 I’m currently learning **Python Frameworks, Vega altair, ReactJS + Python Backend, SQL.**
+- 🌱 I’m currently learning **Python Frameworks, ReactJS + Python Backend, SQL, and large scale databases.**
 
 - 👯 I’m looking to collaborate on **VALT Health, come join our team!**
 
@@ -19,11 +19,11 @@
 
 - Frameworks & Libraries: Pandas, Flask, vega-altair, scikit-learn, Plotly, d3.js, Plot from Observablehq, matplotlib, React, Node,
   
-- Tools: Firebase, Cloud Firestore, Git, Docker
+- Tools: Firebase, Cloud Firestore, Git, Docker, Redis/Valkey
   
 - Operating Systems: MacOs
   
-- IDEs: VS Code, PyCharm, Jupyter Lab/Notebook, Anaconda Navigator
+- IDEs: VS Code, PyCharm, Jupyter Lab/Notebook, MySQL, Anaconda Navigator
 
 <h2 align="left">Connect with me: </h2>
 <p align="left">
