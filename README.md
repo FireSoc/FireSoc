@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at :contentReference[oaicite:0]{index=0} for a B.S. in Data Science + Physics<br>
+🔭 I’m currently studying at Northeastern Universitty for a B.S. in Data Science + Physics<br>
 🌱 I’m currently learning Python frameworks, React + Python backend, SQL, and R<br>
 👯 I’m looking to collaborate on VALT Health — come join our team!<br>
 📫 Reach me at khanna.sav@northeastern.edu<br>
